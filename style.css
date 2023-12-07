@@ -17,7 +17,7 @@
     border: 0;
     color: white;
     background: #FD6E0A;
-    width: 150px;
+    width: 180px;
     height: 64px;
     font-size: 20px;
     font-weight: 700;
@@ -229,6 +229,9 @@ main {
 }
 
 .blog-titles {
+    margin: 30px auto;
+}
+.institution-name{
     margin: 30px auto;
 }
 

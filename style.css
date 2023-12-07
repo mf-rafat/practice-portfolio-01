@@ -30,7 +30,9 @@
     border: 1px solid #FD6E0A;
     margin-left: 30px;
 }
-
+.fa-phone{
+    color: black;
+}
 .section-title {
     margin-top: 0;
 }
